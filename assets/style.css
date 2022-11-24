@@ -1,0 +1,58 @@
+.Container {
+    display: flex;
+    justify-content: center;
+}
+
+.card1 {
+    margin-top: 100px;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    padding-top: 50px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+}
+
+.form1 h1 {
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.form-label {
+    font-size: 25px;
+    color: black;
+}
+
+.container {
+    background-color: lightblue;
+    border-radius: 5px;
+    border: 2px solid silver;
+    width: 350px;
+    height: 250px;
+    margin-left: 5px;
+    padding-bottom: 50px;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.media_card h1 {
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+}
+
+.media_descr h1{
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.boxmodel {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
